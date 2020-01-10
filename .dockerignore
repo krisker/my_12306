@@ -1,0 +1,14 @@
+**/*.html
+**/*.pyc
+**/*.yaml
+**/*.log
+**/*~
+**/.DS_Store
+**/Thumbs.db
+*.png
+.idea/
+.git/
+.github/
+*.md
+UnitTest/
+uml/
